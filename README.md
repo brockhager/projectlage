@@ -9,7 +9,7 @@ There are many sources of where address and location data is stored. We can pull
 
 Sources:
 
-USPS - Address Standardizer - USA
+USPS - Address Standardizer - USA  |  https://www.usps.com/business/web-tools-apis/
 
 What3words
 
