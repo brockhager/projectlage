@@ -11,7 +11,7 @@ Sources:
 
 USPS - Address Standardizer - USA  |  https://www.usps.com/business/web-tools-apis/
 
-What3words
+What3words  |  https://what3words.com/
 
 https://www.ups.com/address_validator/search
 
